@@ -1,0 +1,17 @@
+.main-form{
+    width: 45%;
+    margin: auto;
+}
+.addMovieForm{   
+    max-height: 450px;
+    margin-top: 20px;
+}
+.addMovieForm::-webkit-scrollbar{
+    display: none;
+}
+
+.status-alert{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}

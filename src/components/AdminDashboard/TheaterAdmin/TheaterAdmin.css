@@ -1,0 +1,19 @@
+.main-form{
+    width: 45%;
+    margin: auto;
+}
+.theater-form{   
+    max-height: 450px;
+    margin-top: 20px;
+}
+
+.theater-form::-webkit-scrollbar{
+    display: none;
+}
+
+.status-alert{
+    position: absolute;
+    top: 0;
+    right: 0px;
+    z-index: 1;
+}

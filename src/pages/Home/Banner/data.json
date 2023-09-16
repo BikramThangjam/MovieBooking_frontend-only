@@ -1,0 +1,184 @@
+ [
+    {
+        "adult": false,
+        "backdrop_path": "/xVMtv55caCEvBaV83DofmuZybmI.jpg",
+        "genre_ids": [
+          53,
+          28
+        ],
+        "id": 724209,
+        "original_language": "en",
+        "original_title": "Heart of Stone",
+        "overview": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.",
+        "popularity": 1124.013,
+        "poster_path": "/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",
+        "release_date": "2023-08-09",
+        "title": "Heart of Stone",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 921
+      },
+    {
+        "adult": false,
+        "backdrop_path": "/ac9qFnVrUzhzMjEW2sAiyPDce8w.jpg",
+        "id": 111110,
+        "name": "ONE PIECE",
+        "original_language": "en",
+        "original_title": "ONE PIECE",
+        "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+        "poster_path": "/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 338.951,
+        "first_air_date": "2023-08-31",
+        "vote_average": 8.261,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+        "genre_ids": [
+          28,
+          878,
+          27
+        ],
+        "id": 615656,
+        "original_language": "en",
+        "original_title": "Meg 2: The Trench",
+        "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+        "popularity": 6913.755,
+        "poster_path": "/drCySAAAvegq1vQRGRqPKN9f00w.jpg",
+        "release_date": "2023-08-02",
+        "title": "Meg 2: The Trench",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1174
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQvHTPken2biD5cA6jR0M2SE6Qg.jpg",
+        "genre_ids": [
+          27,
+          14
+        ],
+        "id": 635910,
+        "original_language": "en",
+        "original_title": "The Last Voyage of the Demeter",
+        "overview": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.",
+        "popularity": 829.595,
+        "poster_path": "/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+        "release_date": "2023-08-09",
+        "title": "The Last Voyage of the Demeter",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 246
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 884605,
+        "original_language": "en",
+        "original_title": "No Hard Feelings",
+        "overview": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+        "popularity": 638.767,
+        "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+        "release_date": "2023-06-15",
+        "title": "No Hard Feelings",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1041
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
+        "popularity": 578.455,
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 2972
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 678512,
+        "original_language": "en",
+        "original_title": "Sound of Freedom",
+        "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+        "popularity": 825.798,
+        "poster_path": "/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",
+        "release_date": "2023-07-03",
+        "title": "Sound of Freedom",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 387
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8FQeHmusSN2hk3bICf16x5GFQvT.jpg",
+        "genre_ids": [
+          12,
+          10751,
+          14,
+          10749
+        ],
+        "id": 447277,
+        "original_language": "en",
+        "original_title": "The Little Mermaid",
+        "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+        "popularity": 584.681,
+        "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+        "release_date": "2023-05-18",
+        "title": "The Little Mermaid",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 1747
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2D6ksPSChcRcZuvavrae9g4b8oh.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12,
+          10751,
+          35
+        ],
+        "id": 832502,
+        "original_language": "en",
+        "original_title": "The Monkey King",
+        "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+        "popularity": 494.903,
+        "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+        "release_date": "2023-08-11",
+        "title": "The Monkey King",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 108
+      }
+      
+    ]
+    

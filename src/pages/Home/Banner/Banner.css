@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Lilita+One&display=swap');
+
+.bannerImage{
+    max-height: 650px;
+}
+
+.bannerImage > img {
+    margin: auto;
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+}
+
+.bannerImage__overlay {
+    position: absolute;
+    padding: 1.25rem;
+    bottom: 0px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}   
+
+.bannerImage__title {
+    color: #f58b1b;
+    font-weight: 900;
+    font-size: 1.50rem;
+    margin-bottom: 0.4rem;
+    text-align: left;
+}
+
+.bannerImage__runtime {
+    color: #f58b1b;
+    margin-bottom: 1rem;
+}
+
+.bannerImage__rating {
+    color: #f58b1b;
+    margin-left: 2rem;
+}
+
+.bannerImage__description {
+    font-style: italic;
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+    display: flex;
+    text-align: left;
+    width: 50%;
+}
+
+.banner-text{
+    width: 100%;
+    position: absolute;
+    padding: 5rem;
+    bottom: 20%;
+    bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.banner-text *{
+    font-family: 'Kalam'
+}
+.banner-text>h1{
+    font-weight: 900;
+    font-size: 4rem;
+}
+.banner-text>p{
+    font-size: 1.8rem;
+   
+}

@@ -1,0 +1,26 @@
+
+.booking-content p{
+    margin: 0px 10px
+ }
+
+ .booking-date{
+    color: rgb(233, 34, 144);
+    font-size: 1.2rem;
+ }
+ .loader{
+    margin-top: 50%;
+ }
+
+ .booking-list{
+   max-height: 480px;
+   overflow: auto;
+ }
+
+ .booking-list::-webkit-scrollbar{
+   display: none;
+ }
+
+ .booking-list * {
+   font-size: 14px;
+ }
+ 

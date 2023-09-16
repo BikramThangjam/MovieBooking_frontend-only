@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+
+*{
+  font-family: 'Jost', sans-serif;
+ 
+}
+
+body{
+  background-image: radial-gradient( circle 815px at 23.4% -21.8%,  rgba(9,29,85,1) 0.2%, rgba(0,0,0,1) 100.2% );
+  color: white;
+  height: 100vh;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}

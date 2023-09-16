@@ -1,0 +1,100 @@
+.nav-bg{
+    background-image: linear-gradient( 111.4deg,  rgba(7,7,9,1) 6.5%, rgba(27,24,113,1) 93.2% );
+}
+
+.gradient-text {
+    font-weight: bold;
+    font-size: 1.50rem;
+    background: -webkit-linear-gradient(#5251aa, #ca43db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+.login-text:hover{
+    background: -webkit-linear-gradient(#5251aa, #ca43db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.rotate-on-hover {
+    transform: rotate(-7deg);
+    transition: transform 0.3s ease;
+}
+  
+.rotate-on-hover:hover {
+    transform: rotate(0deg);
+}
+
+.join-btn, .logout-btn {
+    height: 55px;
+    margin: 10px;
+    background: linear-gradient(90deg, #d835bd 0%, #515ada 100%);
+    background-size: 200%;
+    font-size: 1em;
+    font-weight: 600;
+    border-radius: 100px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 1em 2em;
+    cursor: pointer;
+    transition: all 500ms ease;
+    box-shadow: 0 4px 6px -1px hsla(0, 0%, 0%, 0.1), 0 2px 4px -2px hsla(0, 0%, 0%, 0.1);
+    
+}
+
+.join-btn:hover{
+    animation-name: flow;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+}
+
+.logout-btn{
+    background: linear-gradient(90deg, #131213 0%, #1e1e22 100%);
+    border-radius: 0px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.logout-btn:hover{
+    background: azure;
+    color: rgb(39, 38, 38);
+}
+
+@keyframes flow {
+    0% {
+background-position: 0% 50%;
+}
+100% {
+background-position: 100%;
+}
+}
+
+.navbar-nav li{
+    padding-left: 15px;
+}
+
+
+/* Add this CSS to your stylesheet */
+.with-underline-on-hover {
+    position: relative;
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.with-underline-on-hover:hover {
+    color: white; /* You can change the color as needed */
+}
+
+.with-underline-on-hover:hover::before, .with-underline-on-hover:focus::before {
+    content: "";
+    position: absolute;
+    bottom: -2px; /* Adjust this value to control the underline position */
+    left: 0;
+    right: 0;
+    height: 2px; /* Adjust this value to control the underline thickness */
+    background-color: white; /* You can change the color as needed */
+}
