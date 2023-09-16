@@ -12,8 +12,9 @@ const MovieDetail = () => {
     const { summary, setSummary } = useContext(MyContext);
     // console.log("Movie details of id--", movie_id)
     useEffect(() => {
-        getDetails()
-        window.scrollTo(0,0) //once page is loaded, scroll to top
+        getDetails();
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+        window.scrollTo(0,0); //once page is loaded, scroll to top
     }, [])
 
     const getDetails = async () => {

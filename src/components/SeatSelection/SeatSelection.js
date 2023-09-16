@@ -39,6 +39,7 @@ const SeatSelection = () => {
 
   useEffect(() => {
     fetchAllSeats();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const getSeatClass = (seat) => {

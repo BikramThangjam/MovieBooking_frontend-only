@@ -29,13 +29,14 @@ const Home = () => {
         if(!token){
             // Automatically show the modal when the user is not logged in
             setIsModalVisible(true);
+            // eslint-disable-next-line react-hooks/exhaustive-deps
             if(buttonRef.current){
                 // console.log("buttonRef--",buttonRef)
                 // console.log("button clicked..")
                 buttonRef.current.click()  
+                // eslint-disable-next-line react-hooks/exhaustive-deps
             }
-            
-            //                
+                           
         }
 
     },[isModalVisible])

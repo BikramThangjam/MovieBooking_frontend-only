@@ -40,6 +40,7 @@ const PopularMovies = (props) => {
 
   useEffect(() => {
     getMoviesReq();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchVal, filters, currentPage]);
 
   const Loading = () => {

@@ -13,8 +13,10 @@ const ProtectedRoute = (props) => {
         let token = localStorage.getItem('access');
         if(token){
             setIsLoggedIn(true)
+            // eslint-disable-next-line react-hooks/exhaustive-deps
         }else{
             setIsLoggedIn(false)
+            // eslint-disable-next-line react-hooks/exhaustive-deps
         }      
     }, [isLoggedIn])
 
